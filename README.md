@@ -17,7 +17,7 @@ The analysis is performed on the "List of Countries by Sugarcane Production.csv"
 
 <h3>Instructions for Use:</h3>
 
-1.Download the Jupyter Notebook and dataset.
-2.Open the notebook using JupyterLab or Jupyter Notebook.
-3.Execute the cells to reproduce the analysis or modify as needed.
-4.Your contributions, feedback, and suggestions are welcomed!
+1. Download the Jupyter Notebook and dataset.
+2. Open the notebook using JupyterLab or Jupyter Notebook.
+3. Execute the cells to reproduce the analysis or modify as needed.
+4. Your contributions, feedback, and suggestions are welcomed!
